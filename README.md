@@ -1,4 +1,3 @@
-````markdown
 # 🛡️ HamOrSpam - AI Email Classifier
 
 ![App Screenshot](./img/model.png)
@@ -54,14 +53,15 @@ streamlit run app.py
 
 ### Prediction Interface
 
-![Prediction Screen](https://via.placeholder.com/800x450/203a43/FFFFFF?text=Prediction+Interface)
-
 1. **Input your message** in the text area
 2. Click **Analyze Message** button
 3. View **spam/ham classification** with confidence score
 4. Explore **keyword analysis** and probability distribution
+
 ![Demo Screen](./img/analyser01.png)
-![Demo Screen](./img/analytics02.png)
+
+
+![Demo Screen](./img/analyser02.png)
 
 
 
@@ -192,7 +192,7 @@ MIT License - See [LICENSE](LICENSE) for details
 
 **Mohd Shami**
 📧 [shamimohd367@gmail.com](mailto:shamimohd367@gmail.com)
-💼 LinkedIn: (https://www.linkedin.com/in/mohd-shami-792133276)
+💼 [LinkedIn](https://www.linkedin.com/in/mohd-shami-792133276)
 🔗 [Project Repository](https://github.com/codewithshami/hamOrSpam-Classifier)
 
 ---
